@@ -1,4 +1,8 @@
 
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Mahi M Rahman" />
+</h1>
+
 # 👋 Hey there, I'm Mahi
 
 ![Laravel](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&color=FF2D20)
