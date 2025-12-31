@@ -48,13 +48,13 @@ Check out some of the projects I've built using these technologies:
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=thesachindey&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true&title_color=FF1CF7&text_color=00F0FF" alt="thesachindey" />
  </p> -->
 
-## Socials
+<!--## Socials
 <p align="left">
 <a href="https://twitter.com/thesachindey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thesachindey" height="40" width="50" /></a>
 <a href="https://linkedin.com/in/thesachindey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thesachindey" height="40" width="50" /></a>
 <a href="https://instagram.com/thesachincode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thesachincodes" height="40" width="50" /></a>
 <a href="https://www.leetcode.com/lwsachin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lwsachin" height="40" width="50" /></a>
-</p>
+</p>-->
 
 
 
@@ -77,14 +77,4 @@ Check out some of the projects I've built using these technologies:
  </a>
 
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
-# 👋 Hey there, I'm Mahi
 
-![Laravel](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&color=FF2D20)
-![PHP](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&color=777BB4)
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
-![React.js](https://img.shields.io/badge/Library-ReactJs-61DAFB?logo=react&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Library-Vue.js-35495E?logo=vuedotjs&logoColor=4FC08D)
-![Next.js](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=next.js&color=000000)
-![Vercel](https://img.shields.io/badge/Deployment-Vercel-informational?style=flat&logo=vercel&color=000000)
-![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&color=232F3E)
-![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624)
