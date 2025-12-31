@@ -72,8 +72,8 @@ Check out some of the projects I've built using these technologies:
 
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
 
- <a href="https://twitter.com/thesachindey" target="blank">
- <img src="https://img.shields.io/twitter/follow/thesachindey?logo=twitter&style=for-the-badge" alt="thesachindey" />
+ <a href="https://www.instagram.com/mahim8026/" target="blank">
+ <img src="https://www.instagram.com/mahim8026/" alt="mahim8026" />
  </a>
 
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
