@@ -1,7 +1,7 @@
 
 About Me
 > **Hey!👋 I'm Mahi M Rahman, a passionate full-stack developer from Bangladesh.** 
-<img align="right" alt="Coding" width="300"  src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGdkcThici0wOWNjN2FkNi1hMDIxLTQ3YTUtYjBlMC05MTdiMTJiMGY3YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tqRMtE-b2QiI2nnefNxSDMJvZCcYqFmq2ccg_Xfzqb8">
+
 
 - 🌱 I’m currently learning **MERN Stack (MongoDB, Express.js, React, Node.js)**
   
@@ -33,11 +33,11 @@ About Me
 
 Check out some of the projects I've built using these technologies:
 
-- **[CodeCountdown](https://cc-tsc.netlify.app/)**:  Built with JavaScript, HTML5, and CSS3.
-- **[Currency Converter](https://currencyexapp.netlify.app/)**:  Built with Fetch API, JavaScript, HTML5, and CSS3.
-- **[Tic Tac Toe Game](https://tsc-toe.netlify.app/)**: A fun and interactive Tic Tac Toe game built with JavaScript, HTML5, and CSS3.
-- **[NETFLIX-UI](https://tscflix.netlify.app/)**:  Built with HTML5, and CSS3.
-- **[Amazon Homepage](https://tsczon.netlify.app/)**:  Built with HTML5, and CSS3.
+- **[Ticket-bari](https://ticket-bari.web.app)**: Ticket Bari was built using React, Firebase, Node.js/Express, Stripe, and modern UI libraries to deliver a secure, role-based online ticketing platform.
+- **[ToyTopia](https://toytopia-68c9a.web.app)**:  Built with JavaScript, Firebase, HTML5, and CSS3.
+- **[Learn-Loop](https://learn-loop-edcf7.web.app)**:  Built with React, Firebase, Node.js/Express, JavaScript, HTML5, and CSS3.
+- **[App Store](https://benevolent-rugelach-ecb199.netlify.app/)**:  Built with React.js, Tailwind CSS, React Toastify, Recharts.
+- **[CS — Ticket System](https://silly-cajeta-91902b.netlify.app/)**:  Built with JavaScript, HTML5, and CSS3.
 
 
 
