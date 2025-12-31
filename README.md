@@ -13,15 +13,8 @@ About Me
 - 📚 Always improving by **1% every day** in web development and programming
 
 
->  Visitor Count:
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Thesachindey" alt="visitors"/>
 
 
-
-## Account Status:
-<details>
-  <summary>📊 GitHub Stats</summary>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thesachindey&show_icons=true&theme=react&hide_border=true)
 
