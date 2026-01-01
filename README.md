@@ -1,7 +1,6 @@
 ## <img src="https://i.ibb.co.com/jPLpKrBN/github-header-banner.png" alt="github header banner" border="0">
 
 About Me
-
 - 🌱 I’m currently learning **MERN Stack (MongoDB, Express.js, React, Node.js)**
   
 - 💬 Ask me about **React JS, JavaScript, Tailwind CSS, HTML5, CSS3**
@@ -10,6 +9,10 @@ About Me
 
 - 📚 Always improving by **1% every day** in web development and programming
 
+
+##  Current Activities
+
+-  I’m currently exploring Next.js
   
 
 ## Skills
