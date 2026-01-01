@@ -41,12 +41,25 @@ Check out some of the projects I've built using these technologies:
 
 
 
-<!--##  :dart: Language Stats
+##  :dart: Language Stats
 
 <br />
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=thesachindey&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true&title_color=FF1CF7&text_color=00F0FF" alt="thesachindey" />
- </p> -->
+<table width="100%" align="center">
+  <tr>
+    <td width="100%">
+      <h3 align="center"><strong>ʟᴀɴɢᴜᴀɢᴇ ꜱᴛᴀᴛꜱ</strong></h3>
+      <p align="center">
+        <a href="https://github.com/mahi8026">
+          <img
+            align="center"
+            src="https://github-readme-stats-xi-seven-23.vercel.app/api/top-langs/?username=mahi8026&layout=compact&count_private=true&theme=nightowl&bg_color=0,000000,7125bd&title_color=c56a90&text_color=ffffff&hide_border=false"
+            alt="Top Languages"
+          />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <!--## Socials
 <p align="left">
