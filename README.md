@@ -62,13 +62,28 @@ Check out some of the projects I've built using these technologies:
 ## 🎯 Current Stats
 
 <br />
-<p align="center">
-<img 
-    width="60%" 
-    src="https://github-readme-streak-stats.herokuapp.com?user=mahi8026&theme=react&hide_border=true&background=0D1117&stroke=FFFFFF&fire=FF5733&sideLabels=00F0FF&currStreakNum=FFFFFF&ring=FF5733&currStreakLabel=FFFFFF&sideNums=00F0FF" 
-    alt="GitHub Streak Stats"
-/>
-</p>
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ</strong></h3>
+      <p align="center">
+        <a href="https://github.com/mahi8026">
+          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=mahi8026&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,7125bd&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>ꜱᴛʀᴇᴀᴋ ꜱᴛᴀᴛꜱ</strong></h3>
+      <p align="center">
+        <a href="https://github.com/mahi8026">
+          <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=mahi8026&theme=nightowl&background=0,000000,7125bd&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
 
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
 
