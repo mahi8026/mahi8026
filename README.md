@@ -60,15 +60,16 @@ Check out some of the projects I've built using these technologies:
   </tr>
 </table>
 
-<!--## Socials
-<p align="left">
-<a href="https://twitter.com/thesachindey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thesachindey" height="40" width="50" /></a>
-<a href="https://linkedin.com/in/thesachindey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thesachindey" height="40" width="50" /></a>
-<a href="https://instagram.com/thesachincode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thesachincodes" height="40" width="50" /></a>
-<a href="https://www.leetcode.com/lwsachin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lwsachin" height="40" width="50" /></a>
-</p>-->
 
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://x.com/mahimr8026" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mahimr8026" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mahimrahman-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ferdouszihad" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/1056299" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="1056299" height="30" width="40" /></a>
+<a href="https://web.facebook.com/mahim.rahman.5059" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahim.rahman.5059" height="30" width="40" /></a>
+<a href="https://www.instagram.com/mahim8026/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahim8026" height="30" width="40" /></a>
 
+</p>
 
 
 ## 🎯 Current Stats
