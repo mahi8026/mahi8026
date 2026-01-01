@@ -1,4 +1,4 @@
-## <img src="https://i.ibb.co.com/35fnK5Gd/github-header-banner.png" alt="github header banner" border="0">
+## <img src="https://i.ibb.co.com/jPLpKrBN/github-header-banner.png" alt="github header banner" border="0">
 About Me
 > **Hey!👋 I'm Mahi M Rahman, a passionate full-stack developer from Bangladesh.** 
 
