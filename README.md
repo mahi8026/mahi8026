@@ -37,8 +37,8 @@ About Me
 Check out some of the projects I've built using these technologies:
 
 - **[Ticket-bari](https://ticket-bari.web.app)**: Ticket Bari was built using React, Firebase, Node.js/Express, Stripe, and modern UI libraries to deliver a secure, role-based online ticketing platform.
-- **[ToyTopia](https://toytopia-68c9a.web.app)**:  Built with JavaScript, Firebase, HTML5, and CSS3.
 - **[Learn-Loop](https://learn-loop-edcf7.web.app)**:  Built with React, Firebase, Node.js/Express, JavaScript, HTML5, and CSS3.
+- **[ToyTopia](https://toytopia-68c9a.web.app)**:  Built with JavaScript, Firebase, HTML5, and CSS3.
 - **[App Store](https://benevolent-rugelach-ecb199.netlify.app/)**:  Built with React.js, Tailwind CSS, React Toastify, Recharts.
 - **[CS — Ticket System](https://silly-cajeta-91902b.netlify.app/)**:  Built with JavaScript, HTML5, and CSS3.
 
