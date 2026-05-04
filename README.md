@@ -64,8 +64,9 @@ Check out some of the projects I've built using these technologies:
 
 
 <h3 align="center">Connect with me:</h3>
-<p align="center"><a href="https://x.com/mahimr8026" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a><a href="https://www.linkedin.com/in/mahirahman-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a></p>
-
+<p align="center">
+<a href="https://x.com/mahimr8026" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mahirahman-dev/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 </p>
 
 
@@ -76,13 +77,13 @@ Check out some of the projects I've built using these technologies:
     <td width="50%">
       <h3 align="center"><strong>GITHUB STATS</strong></h3>
       <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=mahi8026&show_icons=true&theme=nightowl&count_private=true&hide=prs,issues,contribs&cache_seconds=1800" />
+        <img src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=mahi8026&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,7125bd&title_color=c56a90&text_color=ffffff&hide=prs,issues,contribs" />
       </p>
     </td>
     <td width="50%">
       <h3 align="center"><strong>STREAK STATS</strong></h3>
       <p align="center">
-        <img src="https://streak-stats.demolab.com?user=mahi8026&theme=nightowl" />
+        <img src="https://streak-stats.demolab.com?user=mahi8026&theme=nightowl&background=0,000000,7125bd&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" />
       </p>
     </td>
   </tr>
