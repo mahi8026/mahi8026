@@ -64,10 +64,7 @@ Check out some of the projects I've built using these technologies:
 
 
 <h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://x.com/mahimr8026" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mahimr8026" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/mahirahman-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ferdouszihad" height="30" width="40" /></a>
-
+<p align="center"><a href="https://x.com/mahimr8026" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a><a href="https://www.linkedin.com/in/mahirahman-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a></p>
 
 </p>
 
@@ -79,7 +76,7 @@ Check out some of the projects I've built using these technologies:
     <td width="50%">
       <h3 align="center"><strong>GITHUB STATS</strong></h3>
       <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=mahi8026&show_icons=true&theme=nightowl&count_private=true&hide=prs,issues,contribs" />
+        <img src="https://github-readme-stats.vercel.app/api?username=mahi8026&show_icons=true&theme=nightowl&count_private=true&hide=prs,issues,contribs&cache_seconds=1800" />
       </p>
     </td>
     <td width="50%">
